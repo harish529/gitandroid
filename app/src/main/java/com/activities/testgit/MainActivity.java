@@ -11,5 +11,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         System.out.println("Test From Master");
+        System.out.println("Test From Dev Branch");
+
     }
 }
