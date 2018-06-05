@@ -12,6 +12,7 @@ public class MainActivity extends AppCompatActivity {
 
         System.out.println("Test From Master");
         System.out.println("Test From Dev Branch");
+        System.out.println("Test From Dev2 Branch");
 
     }
 }
